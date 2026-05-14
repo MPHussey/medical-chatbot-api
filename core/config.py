@@ -1,0 +1,5 @@
+OLLAMA_BASE_URL = "http://localhost:11434"
+EMBED_MODEL = "nomic-embed-text:latest"
+CHAT_MODEL = "llama3.2:3b"
+CHROMA_PATH = "./chroma_db"
+COLLECTION_NAME = "medical_docs"
